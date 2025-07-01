@@ -1,0 +1,5 @@
+streamlit
+phi
+python-dotenv
+PyGithub
+phidata

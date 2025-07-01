@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: Agentic-ai
+Version: 0.0.1
+Author: Garv 
+Author-email: garvkhurana1234567@gmail.com
+Requires-Dist: streamlit
+Requires-Dist: phi
+Requires-Dist: python-dotenv
+Requires-Dist: PyGithub
+Requires-Dist: phidata
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

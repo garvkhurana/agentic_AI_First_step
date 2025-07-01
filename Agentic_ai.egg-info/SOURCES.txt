@@ -1,0 +1,6 @@
+setup.py
+Agentic_ai.egg-info/PKG-INFO
+Agentic_ai.egg-info/SOURCES.txt
+Agentic_ai.egg-info/dependency_links.txt
+Agentic_ai.egg-info/requires.txt
+Agentic_ai.egg-info/top_level.txt
